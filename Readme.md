@@ -10,5 +10,5 @@
  # How to Run
   For run android use command 
   * npm run android
-  For iOS use command
+ For iOS use command
   * npm run ios
