@@ -8,5 +8,7 @@
   be installed and configure in your sytem.
   
  # How to Run
-  For run android use command # npm run android
-  For iOS use command npm # run ios
+  For run android use command 
+  * npm run android
+  For iOS use command
+  * npm run ios
